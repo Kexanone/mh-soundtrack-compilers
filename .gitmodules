@@ -1,0 +1,6 @@
+[submodule "tools/ww2ogg"]
+	path = tools/ww2ogg
+	url = https://github.com/hcs64/ww2ogg
+[submodule "tools/wwiser"]
+	path = tools/wwiser
+	url = https://github.com/bnnm/wwiser
