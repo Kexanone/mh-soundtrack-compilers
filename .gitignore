@@ -3,3 +3,8 @@ __pycache__/
 *.xml
 *.wav
 *.mp4
+*.exe
+*.dll
+*Zone.Identifier
+*.list
+*.bat
