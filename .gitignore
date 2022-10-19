@@ -1,0 +1,5 @@
+outputs/
+__pycache__/
+*.xml
+*.wav
+*.mp4
