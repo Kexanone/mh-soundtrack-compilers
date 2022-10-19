@@ -1,0 +1,17 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Lava Caverns - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "15576947", "name": "Lava Caverns (Day Intro)"},
+         {"id": "976189717", "name": "Lava Caverns (Night Intro)"},
+         {"id": "532961572", "name": "Lava Caverns (Small Monsters)", "nloop": 1, "fadeout": 3},
+         {"id": "395926582", "name": "Lava Caverns", "nloop": 1, "fadeout": 3},
+         {"id": "802158574", "name": "Lava Caverns (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "472709914":
+    {
+        "fBeginTrimOffset": 20675.676,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 87777.02083
+    },
+    "AlatreonIntroTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 50000.0
+    },
+    "SharaIshvaldaIntroTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 109000.0
+    },
+    "SharaIshvaldaEndingTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 75000.0
+    },
+    "HoarfrostReachDayIntro":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 27000.0
+    },
+    "HoarfrostReachNightIntro":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 22000.0
+    },
+    "BariothIntroTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 48000.0
+    },
+    "114696064":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 45000.0
+    }
+}

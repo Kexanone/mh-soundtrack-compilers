@@ -1,0 +1,18 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter World: Iceborne - Hoarfrost Reach - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHW", "MHWI", "MH", "World", "Iceborne", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHWI-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+        {"id": "HoarfrostReachDayIntro", "name": "Hoarfrost Reach (Day Intro)"},
+        {"id": "HoarfrostReachNightIntro", "name": "Hoarfrost Reach (Night Intro)"},
+        {"id": "472709914", "name": "Hoarfrost Reach (Small Monsters)", "nloop": 1, "fadeout": 3},
+        {"id": "BariothIntroTheme", "name": "Hoarfrost Reach (Barioth Intro)"},
+        {"id": "119860714", "name": "Hoarfrost Reach", "nloop": 1, "fadeout": 3},
+        {"id": "595780201", "name": "Hoarfrost Reach (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

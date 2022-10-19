@@ -1,0 +1,62 @@
+{
+    "494249746":
+    {
+        "fBeginTrimOffset": 13624.0601503759,
+        "fEndTrimOffset": -26165.416666666668,
+        "fSrcDuration": 175488.7291666667
+    },
+    "336007067":
+    {
+        "fBeginTrimOffset": 12631.58333333333,
+        "fEndTrimOffset": 81203.0,
+        "fSrcDuration":  81203.0
+    },
+    "FloodedForestDayIntro":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration":  18000.0
+    },
+    "SunbreakEndingSong":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 328000.0
+    },
+    "KamuraVillageTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 120000.0
+    },
+    "ElgadoOutpostTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 138000.0
+    },
+    "GaismagormIntroTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 183000.0
+    },
+    "MalzenoIntroTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 136000.0
+    },
+    "IbushiIntroTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 59000.0
+    },
+    "MagnamaloIntroTheme":
+    {
+        "fBeginTrimOffset": 0.0,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 63000.0
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise: Sunbreak - Jungle - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MHRS", "MH", "Rise", "Sunbreak", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHRS-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "835508137", "name": "Jungle (Day Intro)"},
+         {"id": "669912121", "name": "Jungle (Night Intro)"},
+         {"id": "754744653", "name": "Jungle (Small Monsters)", "nloop": 1, "fadeout": 3},
+         {"id": "685512598", "name": "Jungle", "nloop": 1, "fadeout": 3},
+         {"id": "249539304", "name": "Jungle (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

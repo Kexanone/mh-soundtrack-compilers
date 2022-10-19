@@ -1,0 +1,18 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter World: Iceborne - Safi'jiiva - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHW", "MHWI", "MH", "World", "Iceborne", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"]
+    },
+    "compilation":
+    [
+        {"id": "741554178", "name": "Safi'jiiva Theme (Day Intro)"},
+        {"id": "114696064", "name": "Safi'jiiva Theme (Night Intro)"},
+        {"id": "604252756+132210878", "name": "Safi'jiiva Theme (Phase 1/2)", "nloop": 1},
+        {"id": "604252756+132210878+382242957", "name": "Safi'jiiva Theme (Phase 2 Enmity)", "intro": false, "crossfade": 3},
+        {"id": "604252756", "name": "Safi'jiiva Theme (Phase 1/2 Instrumental)", "intro": false, "fadeout": 3},
+        {"id": "51329687", "name": "Safi'jiiva Theme (Phase 3)", "nloop": 1},
+        {"id": "51329687+487150237", "name": "Safi'jiiva Theme (Phase 3 Enmity)", "intro": false, "crossfade": 3, "fadeout": 3}
+    ]
+}

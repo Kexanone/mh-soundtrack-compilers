@@ -1,0 +1,17 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Sandy Plains - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "188028876", "name": "Sandy Plains (Day Intro)"},
+         {"id": "768133983", "name": "Sandy Plains (Night Intro)"},
+         {"id": "363347371", "name": "Sandy Plains (Small Monsters)", "nloop": 1, "fadeout": 3},
+         {"id": "943585556", "name": "Sandy Plains", "nloop": 1, "fadeout": 3},
+         {"id": "10435104", "name": "Sandy Plains (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

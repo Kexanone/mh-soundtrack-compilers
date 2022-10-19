@@ -1,0 +1,21 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Ibushi/Narwa/Allmother - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "IbushiIntroTheme", "name": "Ibushi (Intro)"},
+         {"id": "104453507", "name": "Ibushi (Instrumental)"},
+         {"id": "104453507+396005814", "name": "Ibushi", "intro": false, "nloop": 1, "fadeout": 3},
+         {"id": "776058769", "name": "Narwa (Instrumental)"},
+         {"id": "776058769+974619562", "name": "Narwa", "intro": false, "nloop": 1, "fadeout": 3},
+         {"id": "143703983", "name": "Allmother (Instrumental)"},
+         {"id": "143703983+853333522", "name": "Allmother", "intro": false, "nloop": 1, "fadeout": 3},
+         {"id": "844646689", "name": "Proof of a Hero (Rise Ed.)", "nloop": 1, "fadeout": 3},
+         {"id": "1021756053", "name": "Quest Completed (Rise Ed.)", "fadeout": 3}
+    ]
+}

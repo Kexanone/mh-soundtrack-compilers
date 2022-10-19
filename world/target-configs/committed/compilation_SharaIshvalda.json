@@ -1,0 +1,18 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter World: Iceborne - Shara Ishvalda - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHW", "MHWI", "MH", "World", "Iceborne", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHWI-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+        {"id": "200283013", "name": "Shara Ishvalda (Quest Available)", "fadeout": 3},
+        {"id": "SharaIshvaldaIntroTheme", "name": "Shara Ishvalda (Intro)"},
+        {"id": "781384785", "name": "Shara Ishvalda (Camp)", "fadeout": 3},
+        {"id": "427027342", "name": "Shara Ishvalda (Phase 1)", "nloop": 1, "fadeout": 3},
+        {"id": "742857531", "name": "Shara Ishvalda (Phase 2)", "nloop": 1, "fadeout": 3},
+        {"id": "SharaIshvaldaEndingTheme", "name": "Shara Ishvalda vs Nergigante", "fadeout": 3}
+    ]
+}

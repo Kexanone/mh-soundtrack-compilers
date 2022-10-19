@@ -1,0 +1,17 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Frost Islands - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "198436832", "name": "Frost Islands (Day Intro)"},
+         {"id": "230331846", "name": "Frost Islands (Night Intro)"},
+         {"id": "79465915", "name": "Frost Islands (Small Monsters)", "nloop": 1, "fadeout": 3},
+         {"id": "945670454", "name": "Frost Islands", "nloop": 1, "fadeout": 3},
+         {"id": "598731021", "name": "Frost Islands (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

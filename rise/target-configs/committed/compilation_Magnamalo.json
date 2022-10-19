@@ -1,0 +1,15 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Maglanamo - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "MagnamaloIntroTheme", "name": "Magnamalo Intro"},
+         {"id": "982684053", "name": "Magnamalo", "nloop": 1, "fadeout": 3},
+         {"id": "754694322", "name": "Magnamalo (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

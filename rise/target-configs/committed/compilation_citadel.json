@@ -1,0 +1,17 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise: Sunbreak - Citadel - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MHRS", "MH", "Rise", "Sunbreak", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHRS-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "275685999", "name": "Citadel (Day Intro)"},
+         {"id": "345643760", "name": "Citadel (Night Intro)"},
+         {"id": "52543920", "name": "Citadel (Small Monsters)", "nloop": 1, "fadeout": 3},
+         {"id": "949492608", "name": "Citadel", "nloop": 1, "fadeout": 3},
+         {"id": "1015654137", "name": "Citadel (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

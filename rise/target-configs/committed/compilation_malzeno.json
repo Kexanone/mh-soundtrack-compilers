@@ -1,0 +1,15 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise: Sunbreak - Malzeno - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MHRS", "MH", "Rise", "Sunbreak", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHRS-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "MalzenoIntroTheme", "name": "Malzeno Intro"},
+         {"id": "782418019", "name": "Malzeno", "nloop": 1, "fadeout": 3},
+         {"id": "422266444", "name": "Malzeno (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

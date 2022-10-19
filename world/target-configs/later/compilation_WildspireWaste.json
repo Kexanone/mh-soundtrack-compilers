@@ -1,0 +1,16 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter World - Wildspire Waste - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHW-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+        {"id": "64285823", "name": "Wildspire Waste (Day Intro)"},
+        {"id": "378371700", "name": "Wildspire Waste (Small Monsters)", "nloop": 1, "fadeout": 3},
+        {"id": "517665223", "name": "Wildspire Waste", "nloop": 1, "fadeout": 3},
+        {"id": "420527934", "name": "Wildspire Waste (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

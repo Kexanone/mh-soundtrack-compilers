@@ -1,0 +1,17 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Shrine Ruins - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+        {"id": "647873094", "name": "Shrine Ruins (Day Intro)"},
+        {"id": "971154403", "name": "Shrine Ruins (Night Intro)"},
+        {"id": "11996970", "name": "Shrine Ruins (Small Monsters)", "nloop": 1, "fadeout": 3},
+        {"id": "350673445", "name": "Shrine Ruins", "nloop": 1, "fadeout": 3},
+        {"id": "507023404", "name": "Shrine Ruins (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

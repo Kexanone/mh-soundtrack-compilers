@@ -1,0 +1,17 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Flooded Forest - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "437958483", "name": "Flooded Forest (Day Intro)"},
+         {"id": "316100986", "name": "Flooded Forest (Night Intro)"},
+         {"id": "781794560", "name": "Flooded Forest (Small Monsters)", "nloop": 1, "fadeout": 3},
+         {"id": "95228175", "name": "Flooded Forest", "nloop": 1, "fadeout": 3},
+         {"id": "355547833", "name": "Flooded Forest (Chase)", "nloop": 1, "fadeout": 3}
+    ]
+}

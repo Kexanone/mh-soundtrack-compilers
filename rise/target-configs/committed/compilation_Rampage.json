@@ -1,0 +1,19 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise - Rampage - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MH", "Rise", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHR-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "791379709", "name": "Rampage", "nloop": 1, "fadeout": 3},
+         {"id": "916236211", "name": "Rampage Counter Singal", "nloop": 2, "fadeout": 3},
+         {"id": "1029131524", "name": "Apex Rampage", "nloop": 1, "fadeout": 3},
+         {"id": "IbushiIntroTheme", "name": "Ibushi (Intro)"},
+         {"id": "104453507+396005814", "name": "Ibushi", "nloop": 1, "fadeout": 3},
+         {"id": "844646689", "name": "Proof of a Hero (Rise Ed.)", "nloop": 1, "fadeout": 3},
+         {"id": "1021756053", "name": "Quest Completed (Rise Ed.)", "fadeout": 3}
+    ]
+}

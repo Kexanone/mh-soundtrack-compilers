@@ -1,0 +1,16 @@
+{
+    "meta_data":
+    {
+        "title" : "Monster Hunter Rise: Sunbreak - Gaismagorm - Full Soundtrack",
+        "description" : "Playlist:\n═════\n{timestamps}\n",
+        "tags" : ["MHR", "MHRS", "MH", "Rise", "Sunbreak", "Full", "Soundtrack", "Compilation", "Music", "Song", "BGM", "Theme", "OST"],
+        "image": "MHRS-Soundtrack-Background.jpg"
+    },
+    "compilation":
+    [
+         {"id": "GaismagormIntroTheme", "name": "Gaismagorm (Intro)"},
+         {"id": "426653247", "name": "Gaismagorm", "nloop": 1, "fadeout": 3},
+         {"id": "901752410", "name": "Proof of a Hero (Sunbreak Ed.)", "fadeout": 3},
+         {"id": "361766631", "name": "Quest Completed (Sunbreak Ed.)", "fadeout": 3}
+    ]
+}
