@@ -106,6 +106,8 @@
         {"id": "422266444", "name": "Malzeno (Chase)", "nloop": 1, "fadeout": 3},
         {"id": "145130248", "name": "Gore Magala", "nloop": 1, "fadeout": 3},
         {"id": "190525825", "name": "Gore Magala (Chase)", "nloop": 1, "fadeout": 3},
+        {"id": "ChaoticGoreMagalaTheme", "name": "Chaotic Gore Magala", "nloop": 1, "fadeout": 3},
+        {"id": "735985091", "name": "Chaotic Gore Magala (Chase)", "nloop": 1, "fadeout": 3},
         {"id": "217525265", "name": "Shagaru Magala", "nloop": 1, "fadeout": 3},
         {"id": "1068796639", "name": "Shagaru Magala (Chase)", "nloop": 1, "fadeout": 3},
         {"id": "GaismagormIntroTheme", "name": "Gaismagorm (Intro)"},

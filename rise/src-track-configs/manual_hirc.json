@@ -58,5 +58,11 @@
         "fBeginTrimOffset": 0.0,
         "fEndTrimOffset": 0.0,
         "fSrcDuration": 63000.0
+    },
+    "ChaoticGoreMagalaTheme":
+    {
+        "fBeginTrimOffset": 9932.4375,
+        "fEndTrimOffset": 0.0,
+        "fSrcDuration": 102978.4167
     }
 }
